@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
+<h2> Let's Code! </h2>
+<p><img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/leandrospohr" target="blank"><img align="center"
