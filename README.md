@@ -13,12 +13,12 @@
   <a href="https://fb.com/leandro.spohr.1" target="blank"><img align="center"
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
       alt="leandro.spohr.1" /></a>
-  <a href="https://open.spotify.com/user/leandrospohr" target="blank"><img align="center"
-      src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
-      alt="leandrospohr" /></a>
   <a href="https://pin.it/1ET06zc" target="blank"><img align="center"
       src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"
       alt="leandro_spohr" /></a>
+  <a href="https://open.spotify.com/user/leandrospohr" target="blank"><img align="center"
+      src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
+      alt="leandrospohr" /></a>
 </p>
 
 <h3 align="left">:toolbox: Languages and Tools:</h3>
@@ -73,7 +73,6 @@
 <h3 align="left">:fire: Activity:</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroSpohr&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroSpohr&theme=dark&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSpohr&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
