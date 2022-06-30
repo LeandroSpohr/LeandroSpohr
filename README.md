@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h2> Let's Code! 💻</h2>
+<h2>💻 Let's Code!</h2>
 <p><img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" />
 </p>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:link: Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/leandrospohr" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -15,7 +15,7 @@
       alt="_leandrospohr" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">:toolbox: Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> <a
     href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
@@ -64,7 +64,8 @@
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
       alt="webpack" width="40" height="40" /> </a> </p>
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">:fire: Activity:</h3>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroSpohr&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroSpohr&theme=dark&show_icons=true&hide_border=true)
