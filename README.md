@@ -63,5 +63,11 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
       alt="webpack" width="40" height="40" /> </a> </p>
-      
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroSpohr&theme=dark)](https://git.io/streak-stats)
+
+<h3 align="left">Activity:</h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeandroSpohr&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroSpohr&theme=dark&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSpohr&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
