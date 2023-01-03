@@ -73,14 +73,14 @@
 <h3 align="center">:fire: Activity:</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LeandroSpohr&theme=dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroSpohr&theme=dark&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeandroSpohr&theme=dark&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/?username=LeandroSpohr&theme=dark&show_icons=true&hide_border=true">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSpohr&theme=dark&hide_border=true&layout=compact">
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSpohr&theme=dark&layout=compact&hide_border=true">
 </p>
 
